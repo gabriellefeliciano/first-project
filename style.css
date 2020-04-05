@@ -1,0 +1,25 @@
+.page {
+  min-width: 1100px;
+  max-width: 1600px;
+  font-family: "Helvetica Neue", "Arial", sans-serif;
+  
+.header {
+  display: flex;
+  margin: auto;
+  min-height: 600px;
+  max-height: 756px;
+}
+
+.logo_place_header {
+  positioning: absolute;
+  top: 30px;
+  left: 64px;
+  width: 154px;
+  height: 31px;
+  order: 1;
+}
+
+.title {
+  display: flex;
+  width: 730px;
+  left: 64px;
